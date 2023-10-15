@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+    font:
+      2em/1.5 Arial,
+      Helvetica,
+      sans-serif;
+  }
+  .special {
+    background-color: rgb(187, 182, 177);
+    padding: 10px;
+    color: #b33434;
+  }
+  
+  .box {
+    
+    float: left;
+    margin-right: 10px;
+    width: 180px;
+    height: 100px;
+    border-radius: 1px;
+    padding: 5em;
+  }
+
+  .wrapper {
+    background-color: rgb(79, 185, 227);
+    padding: 50px;
+    color: #4e0d0d;
+  }
+
+ 

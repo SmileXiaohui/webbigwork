@@ -1,0 +1,31 @@
+
+  .container {
+    border-radius: 100px;
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .InputAddOn {
+    width: 400px;
+    height: 30px;
+    display: flex;
+  }
+  
+  .InputAddOn-field {
+    flex: 1;
+  }
+  
+  .InputAddOn-item:first-child {
+    background-color: rgb(255, 246, 246);
+  }
+  
+  .InputAddOn-item {
+    width: 60px;
+    line-height: 30px;
+    text-align: center;
+     border: 3px solid rgb(194, 161, 100);
+  }
